@@ -76,7 +76,7 @@ python3 --version
 ### **1. Setup Environment**
 ```bash
 # Clone the repository
-git clone https://github.com/GhilaniYassine/TruthBot-Azure.git
+git clone https://github.com/oeilsimple/fact-checking-system.git
 cd TruthBot-Azure
 
 # Create and activate virtual environment
@@ -191,18 +191,3 @@ Check API health status.
 ✅ **Azure Integration** - Secure cloud-based deployment ready  
 
 ---
-
-## 📝 License
-
-This project is open source and available under the MIT License.
-
----
-
-## 👨‍💻 Author
-
-**Yassine Ghilani** - AI ENGINEER
-Challenge accepted and built with 🚀
-
----
-
-**Built with ❤️ for AI4GOOD @ NUIT D'INFO Hackathon**

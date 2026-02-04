@@ -17,10 +17,6 @@
 
 ---
 
-> **Challenge**: This project was proposed by **AI4GOOD** company at the **NUIT D'INFO Hackathon** as a challenge I wanted to work on again and push further.
-
----
-
 ## 📋 Overview
 
 TruthBot is an intelligent fact-checking system that leverages **AI agents**, **web search**, and **multi-agent orchestration** to verify claims and deliver clear, evidence-backed verdicts. Built with modern technologies, it combines powerful backend services with an intuitive frontend interface.
